@@ -18,7 +18,7 @@ Leaked? can work in any OS if they have Python 2 or 3 installed.
  
 # Install and Run on Linux
     sudo apt update && sudo apt install python3 python3-pip
-    git clone https://github.com/GitHackTools/Leaked
+    git clone https://github.com/alex14324/Leaked
     cd Leaked
     bash install_update.sh
     python3 leaked.py
@@ -31,7 +31,7 @@ Download and run Git setup file from <a href="https://Git-scm.com" target="_blan
 
 After that, Run Command Propmt or PowerShell and enter these commands:
 
-    git clone https://github.com/GitHackTools/Leaked
+    git clone https://github.com/alex14324/Leaked
     cd Leaked
     ./install_update.bat
     python leaked.py
