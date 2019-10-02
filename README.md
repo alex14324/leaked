@@ -35,6 +35,4 @@ After that, Run Command Propmt or PowerShell and enter these commands:
     ./install_update.bat
     python leaked.py
 
-# Update Leaked?
-<code>git pull -f</code> or run <code>install_update.bat</code> (for Windows) and <code>install_update.sh</code> (for Linux)
 
