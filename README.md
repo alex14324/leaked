@@ -1,6 +1,5 @@
 # About Leaked? 2.1
-Leaked? is  A Checking tool for Hash codes, Passwords, and Emails leaked, using leakz module from <a href="https://twitter.com/thehappydinoa" target="_blank"><span style="color: blue">Aidan Holland</span></a>, which uses API from <a href="https://twitter.com/webtobesocial" target="_blank"><span style="color: blue">Aurelius Wendelken</span></a>.
-
+Leaked? is  A Checking tool for Hash codes, Passwords, and Emails leaked, using leakz module from 
 Leaked? can work in any OS if they have Python 2 or 3 installed.
 
 # What's new?
@@ -39,14 +38,9 @@ After that, Run Command Propmt or PowerShell and enter these commands:
 # Update Leaked?
 <code>git pull -f</code> or run <code>install_update.bat</code> (for Windows) and <code>install_update.sh</code> (for Linux)
 
-# Notes
-Leaked? uses leakz module from <a href="https://twitter.com/thehappydinoa" target="_blank"><span style="color: blue">Aidan Holland</span></a>, and leakz module uses API from <a href="https://twitter.com/webtobesocial" target="_blank"><span style="color: blue">Aurelius Wendelken</span></a>
 
 Let's follow their Twitter account!
   
-# Screenshots
-![Run Leaked? on ParrotSec](https://linuxteamvietnam.us/wp-content/uploads/2018/09/Leaked-2.0-ParrotSec.png)
-![Run Leaked? on PowerShell](https://1.bp.blogspot.com/-70-lnGlxhmY/XE00PDPyPoI/AAAAAAAAN-w/col6QS1xZCkB3GYNRwetlihkxBZ_NKk0wCLcBGAs/s1600/Leaked%2B2.1%2BWindows.PNG)
 
 # Thanks to <a href="https://githacktools.blogspot.com" target="_blank"><span style="color: blue">GitHackTools</span></a> (myself) for programming this tool
 
@@ -54,9 +48,6 @@ And <a href="https://twitter.com/thehappydinoa" target="_blank"><span style="col
 
 # Contact the Author
  * Website: <a href="https://githacktools.blogspot.com" target="_blank"><span style="color: blue">GitHackTools.blogspot.com</span></a>
- * Twitter: <a href="https://twitter.com/SecureGF" target="_blank"><span style="color: blue">@SecureGF</span></a>
- * Facebook: <a href="https://githacktools.blogspot.com" target="_blank"><span style="color: blue">@GitHackTools</span></a>
- * Google Plus: <a href="https://plus.google.com/+TVT618" target="_blank"><span style="color: blue">+TVT618</span></a>
 
 # To-do list
  * Has yet devise!
