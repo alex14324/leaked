@@ -38,16 +38,3 @@ After that, Run Command Propmt or PowerShell and enter these commands:
 # Update Leaked?
 <code>git pull -f</code> or run <code>install_update.bat</code> (for Windows) and <code>install_update.sh</code> (for Linux)
 
-
-Let's follow their Twitter account!
-  
-
-# Thanks to <a href="https://githacktools.blogspot.com" target="_blank"><span style="color: blue">GitHackTools</span></a> (myself) for programming this tool
-
-And <a href="https://twitter.com/thehappydinoa" target="_blank"><span style="color: blue">Aidan Holland</span></a> for his free Python module!
-
-# Contact the Author
- * Website: <a href="https://githacktools.blogspot.com" target="_blank"><span style="color: blue">GitHackTools.blogspot.com</span></a>
-
-# To-do list
- * Has yet devise!
